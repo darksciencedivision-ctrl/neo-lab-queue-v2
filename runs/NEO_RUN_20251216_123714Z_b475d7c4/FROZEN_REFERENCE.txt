@@ -1,0 +1,7 @@
+﻿This run is frozen as a reference baseline.
+- Phases 1–5 completed
+- Human authorization verified
+- Cryptographic chain verified
+- Execution blocked (DRY_RUN)
+
+Do not modify contents.

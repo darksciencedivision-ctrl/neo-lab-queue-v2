@@ -1,0 +1,14 @@
+{
+    "schema_version":  "neo_proposal_request_v1",
+    "run_id":  "NEO_RUN_20251216_123714Z_b475d7c4",
+    "created_utc":  "2025-12-16T12:37:14.7436615Z",
+    "baseline_path":  "C:\\ai_control\\NEO_Stack\\artifacts\\baseline_summary.json",
+    "baseline_sha256":  "881582873628347FE0254C65AAF804E311B13CC4E3C855FA1B7B49CD978592C8",
+    "baseline_run_id":  "TITAN_TEST_R1",
+    "baseline_p_top":  0.55896,
+    "top_event_id":  "GRID_BLACKOUT",
+    "expected_outputs":  [
+                             "mantis_proposal.json"
+                         ],
+    "notes":  "Phase 3 staged request only. No models executed. Next step: planner consumes this request under governance."
+}

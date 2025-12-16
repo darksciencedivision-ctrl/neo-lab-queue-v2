@@ -1,0 +1,13 @@
+{
+    "phase":  4,
+    "run_dir":  "C:\\ai_control\\NEO_Stack\\runs\\NEO_RUN_20251216_123714Z_b475d7c4",
+    "inbox":  "C:\\ai_control\\NEO_Stack\\runs\\NEO_RUN_20251216_123714Z_b475d7c4\\inbox",
+    "created_utc":  "2025-12-16T14:32:13.8448058Z",
+    "baseline_path":  "C:\\ai_control\\NEO_Stack\\artifacts\\baseline_summary.json",
+    "baseline_sha256":  "881582873628347FE0254C65AAF804E311B13CC4E3C855FA1B7B49CD978592C8",
+    "auth_path":  "C:\\ai_control\\NEO_Stack\\runs\\NEO_RUN_20251216_123714Z_b475d7c4\\inbox\\phase4_auth.json",
+    "auth_sig":  "C:\\ai_control\\NEO_Stack\\runs\\NEO_RUN_20251216_123714Z_b475d7c4\\inbox\\phase4_auth.sig",
+    "request_path":  "C:\\ai_control\\NEO_Stack\\runs\\NEO_RUN_20251216_123714Z_b475d7c4\\inbox\\proposal_request.json",
+    "manifest_path":  "C:\\ai_control\\NEO_Stack\\runs\\NEO_RUN_20251216_123714Z_b475d7c4\\run_manifest.json",
+    "status":  "OK_ENVELOPE_VERIFIED"
+}

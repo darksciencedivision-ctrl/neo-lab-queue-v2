@@ -1,0 +1,9 @@
+{
+    "run_id":  "TITAN_TEST_R1",
+    "created_utc":  "2025-12-16T12:36:58.9527583Z",
+    "engine":  "PRAXIS_TITAN",
+    "version":  "P6.3",
+    "p_top":  0.55896,
+    "top_event_id":  "GRID_BLACKOUT",
+    "source_file":  "Perfect_Storm_2032_praxis_output.json"
+}

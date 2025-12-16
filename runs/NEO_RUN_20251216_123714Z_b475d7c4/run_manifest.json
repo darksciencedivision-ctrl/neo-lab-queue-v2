@@ -1,0 +1,16 @@
+{
+    "schema_version":  "neo_run_manifest_v1",
+    "run_id":  "NEO_RUN_20251216_123714Z_b475d7c4",
+    "created_utc":  "2025-12-16T12:37:14.7166689Z",
+    "phase1_state":  "C:\\ai_control\\NEO_Stack\\runtime\\neo_phase_state.json",
+    "phase1_utc":  "2025-12-16T12:37:14.6934204Z",
+    "baseline_path":  "C:\\ai_control\\NEO_Stack\\artifacts\\baseline_summary.json",
+    "baseline_sha256":  "881582873628347FE0254C65AAF804E311B13CC4E3C855FA1B7B49CD978592C8",
+    "baseline_run_id":  "TITAN_TEST_R1",
+    "baseline_engine":  "PRAXIS_TITAN",
+    "baseline_version":  "P6.3",
+    "baseline_p_top":  0.55896,
+    "top_event_id":  "GRID_BLACKOUT",
+    "source_file":  "Perfect_Storm_2032_praxis_output.json",
+    "notes":  "Phase 2 created run workspace. No loop. No models. No execution started."
+}

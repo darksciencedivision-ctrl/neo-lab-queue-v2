@@ -1,0 +1,14 @@
+{
+    "schema_version":  "neo_phase3_state_v1",
+    "phase_3_complete":  true,
+    "phase_3_utc":  "2025-12-16T12:37:14.7481696Z",
+    "run_id":  "NEO_RUN_20251216_123714Z_b475d7c4",
+    "run_dir":  "C:\\ai_control\\NEO_Stack\\runs\\NEO_RUN_20251216_123714Z_b475d7c4",
+    "manifest_path":  "C:\\ai_control\\NEO_Stack\\runs\\NEO_RUN_20251216_123714Z_b475d7c4\\run_manifest.json",
+    "proposal_request_path":  "C:\\ai_control\\NEO_Stack\\runs\\NEO_RUN_20251216_123714Z_b475d7c4\\inbox\\proposal_request.json",
+    "baseline_path":  "C:\\ai_control\\NEO_Stack\\artifacts\\baseline_summary.json",
+    "baseline_sha256":  "881582873628347FE0254C65AAF804E311B13CC4E3C855FA1B7B49CD978592C8",
+    "baseline_run_id":  "TITAN_TEST_R1",
+    "baseline_p_top":  0.55896,
+    "phase_4_complete":  false
+}

@@ -1,0 +1,10 @@
+{
+    "run_id":  "NEO_RUN_20251216_123714Z_b475d7c4",
+    "created_utc":  "2025-12-16T14:14:00.9279905Z",
+    "baseline_path":  "C:\\ai_control\\NEO_Stack\\artifacts\\baseline_summary.json",
+    "baseline_sha256":  "881582873628347FE0254C65AAF804E311B13CC4E3C855FA1B7B49CD978592C8",
+    "request_path":  "C:\\ai_control\\NEO_Stack\\runs\\NEO_RUN_20251216_123714Z_b475d7c4\\inbox\\proposal_request.json",
+    "manifest_path":  "C:\\ai_control\\NEO_Stack\\runs\\NEO_RUN_20251216_123714Z_b475d7c4\\run_manifest.json",
+    "nonce":  "6d40c7da138544deaa97cd079b98159d",
+    "intent":  "PHASE4_ENVELOPE_AUTH"
+}

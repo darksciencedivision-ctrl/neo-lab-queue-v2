@@ -1,0 +1,9 @@
+{
+    "phase":  5,
+    "mode":  "DRY_RUN",
+    "run_dir":  "C:\\ai_control\\NEO_Stack\\runs\\NEO_RUN_20251216_123714Z_b475d7c4",
+    "proposal_sha256":  "86CEFFC4E5E6D038673F24339FFB85DE8D893F027718C47A25123FC680EE79B1",
+    "manifest_sha256":  "13C1354E07928603F0D6A12F2FA39FCAC8A30302139C27559A5C9903A66527D6",
+    "executed":  false,
+    "timestamp_utc":  "2025-12-16T16:01:38.3199372Z"
+}
