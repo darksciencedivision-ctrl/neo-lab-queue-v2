@@ -36,3 +36,7 @@ user_task_queue.txt
 # duplicates
 docker-compose.yml.txt
 
+# --- NEO: never commit private keys ---
+keys/*.xml
+keys/*.pem
+keys/*.key
