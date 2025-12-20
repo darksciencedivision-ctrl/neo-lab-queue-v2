@@ -20,3 +20,28 @@ node_modules/
 .DS_Store
 Thumbs.db
 
+# Runtime/state (do not commit)
+queue_v2/
+queue/
+runs/
+artifacts/
+artifacts/logs/
+artifacts/STOP
+
+# Secrets/keys (do not commit)
+keys/
+keys_retired/
+*.pem
+*.key
+*.pfx
+*.p12
+*.xml
+.env
+neo_manifest.local.json
+
+# Common junk
+*.log
+*.tmp
+__pycache__/
+.venv/
+node_modules/
