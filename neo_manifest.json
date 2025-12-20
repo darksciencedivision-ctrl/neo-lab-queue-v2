@@ -1,0 +1,51 @@
+{
+  "stack_id": "NEO-LAB-LOCAL",
+  "paths": {
+    "stack_root": "C:\\ai_control\\NEO_Stack",
+    "queue_root": "C:\\ai_control\\NEO_Stack\\queue_v2",
+
+    "queue_inbox": "C:\\ai_control\\NEO_Stack\\queue_v2\\inbox",
+    "queue_outbox": "C:\\ai_control\\NEO_Stack\\queue_v2\\outbox",
+    "queue_processing": "C:\\ai_control\\NEO_Stack\\queue_v2\\processing",
+    "queue_processed": "C:\\ai_control\\NEO_Stack\\queue_v2\\processed",
+    "queue_deadletter": "C:\\ai_control\\NEO_Stack\\queue_v2\\deadletter",
+
+    "kb_root": "C:\\ai_control\\NEO_Stack\\kb",
+    "artifacts_root": "C:\\ai_control\\NEO_Stack\\artifacts"
+  },
+
+  "routes": {
+    "chat": {
+      "description": "General chat / operator interface"
+    },
+    "coder": {
+      "description": "Code generation + debugging"
+    },
+    "reasoner": {
+      "description": "Deep analysis / tradeoffs / planning"
+    }
+  },
+
+  "model_map": {
+    "chat": "dolphin-llama3:latest",
+    "coder": "deepseek-coder-v2:latest",
+    "reasoner": "deepseek-r1:latest",
+    "retrieval": "dolphin-llama3:latest"
+  },
+
+  "models": {
+    "dolphin-llama3:latest": {
+      "provider": "ollama",
+      "context_tokens": 8192
+    },
+    "deepseek-coder-v2:latest": {
+      "provider": "ollama",
+      "context_tokens": 8192
+    },
+    "deepseek-r1:latest": {
+      "provider": "ollama",
+      "context_tokens": 8192
+    }
+  }
+}
+

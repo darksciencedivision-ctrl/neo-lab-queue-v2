@@ -1,0 +1,6 @@
+{
+    "schema_version":  "neo_phase3_log_v1",
+    "utc":  "2025-12-16T12:37:14.7491737Z",
+    "message":  "Phase 3 staged proposal_request.json (no models). Hash-lock + TTL gates passed.",
+    "baseline_sha256":  "881582873628347FE0254C65AAF804E311B13CC4E3C855FA1B7B49CD978592C8"
+}

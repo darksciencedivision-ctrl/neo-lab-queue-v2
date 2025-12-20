@@ -1,0 +1,17 @@
+{
+  "assistant_mode": "lab",
+  "current_objective": "Unset",
+  "current_context": "Unset",
+  "current_workspace": "C:\\ai_control\\NEO_Stack",
+  "assumptions": {
+    "os": "Windows",
+    "shell": "PowerShell 5.1",
+    "ollama_host": "http://127.0.0.1:11434"
+  },
+  "interaction": {
+    "verbosity": "normal",
+    "tone": "technical",
+    "output_mode": "copy_paste"
+  },
+  "last_updated_utc": "1970-01-01T00:00:00Z"
+}

@@ -1,42 +1,22 @@
-﻿queue/
+﻿# Runtime queues/state
 queue_v2/
-logs/
-neo_data/
+artifacts/logs/
+artifacts/STOP
 
-*.bak
-*.backup
+# Local artifacts
+*.log
 *.tmp
-*_BACKUP*
-*_BROKEN_BACKUP*
 
-.vscode/
+# Secrets / local overrides
+neo_manifest.local.json
+.env
+*.key
+*.pem
+
+# Common caches
+__pycache__/
+.venv/
+node_modules/
 .DS_Store
 Thumbs.db
 
-*.env
-*.token
-
-# backups
-*.BACKUP_*
-*_BROKEN_BACKUP
-
-
-# runtime artifacts
-neo_queue.txt
-user_task_queue.txt
-
-# duplicates
-docker-compose.yml.txt
-
-
-# runtime artifacts
-neo_queue.txt
-user_task_queue.txt
-
-# duplicates
-docker-compose.yml.txt
-
-# --- NEO: never commit private keys ---
-keys/*.xml
-keys/*.pem
-keys/*.key
