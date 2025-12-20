@@ -45,3 +45,20 @@ neo_manifest.local.json
 __pycache__/
 .venv/
 node_modules/
+# Runtime/state (do not commit)
+queue_v2/
+queue/
+runs/
+artifacts/
+artifacts/logs/
+artifacts/STOP
+
+# Backup junk
+*.BACKUP*
+*BROKEN*
+*PRE_ARCH*
+
+# Logs/zips
+*.log
+*.zip
+*.tmp
