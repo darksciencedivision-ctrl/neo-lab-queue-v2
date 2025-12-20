@@ -1,0 +1,11 @@
+{
+  "preferred_response_style": "engineering",
+  "default_output_mode": "copy_paste",
+  "default_verbosity": "normal",
+  "default_tone": "technical",
+  "editing_preference": "full_file_copy_paste",
+  "project_roots": [
+    "C:\\ai_control\\NEO_Stack",
+    "C:\\ai_control"
+  ]
+}

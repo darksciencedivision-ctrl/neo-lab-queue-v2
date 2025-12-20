@@ -1,0 +1,37 @@
+version: "3.9"
+
+services:
+
+  neo-postgres:
+    image: postgres:16
+    container_name: neo-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: neo_user
+      POSTGRES_PASSWORD: neo_password_secure
+      POSTGRES_DB: neo_identity
+    ports:
+      - "55432:5432"
+    volumes:
+      - neo_pgdata:/var/lib/postgresql/data
+
+  neo-ollama:
+    image: ollama/ollama:latest
+    container_name: neo-ollama
+    restart: unless-stopped
+    ports:
+      - "11434:11434"
+    volumes:
+      - neo_ollama:/root/.ollama
+    command: serve
+
+  neo-sandbox:
+    image: mcr.microsoft.com/powershell
+    container_name: neo-sandbox
+    restart: unless-stopped
+    tty: true
+    stdin_open: true
+
+volumes:
+  neo_pgdata:
+  neo_ollama:

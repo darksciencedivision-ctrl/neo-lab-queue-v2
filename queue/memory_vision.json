@@ -1,0 +1,12 @@
+﻿{
+    "messages":  [
+                     {
+                         "content":  "/vision \"C:\\ai_control\\NEO_Stack\\queue\\neo_response.txt\" describe this file",
+                         "role":  "user"
+                     },
+                     {
+                         "content":  "I\u0027m unable to provide a detailed description without more information about the file type or its contents. Could you please provide the name of the file or its extension?",
+                         "role":  "assistant"
+                     }
+                 ]
+}
