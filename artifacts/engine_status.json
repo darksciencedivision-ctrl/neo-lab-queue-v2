@@ -1,9 +1,0 @@
-{
-    "op":  "HEARTBEAT",
-    "ts_utc":  "2025-12-20T03:38:07.6103181Z",
-    "stack_id":  "UNKNOWN",
-    "processed":  0,
-    "errors":  1224,
-    "poll_ms":  250,
-    "since_utc":  "2025-12-20T03:32:53.7790740Z"
-}
