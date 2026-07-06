@@ -1,4 +1,5 @@
-📄 README.md — FINAL POLISHED VERSION (FULL COPY / PASTE)
+> **Superseded by [Neo-V3](https://github.com/darksciencedivision-ctrl/Neo-V3).** Archived for history.
+
 # NEO-LAB  
 ## Deterministic Local Cognitive Control Plane
 
@@ -253,32 +254,10 @@ Optional message integrity verification
 
 License
 
-MIT or Apache-2.0 recommended for company evaluation and internal review.
+See [LICENSE](LICENSE).
 
 Disclaimer
 
 NEO-LAB provides general informational output only.
 For legal, medical, or financial decisions, consult qualified professionals and primary sources.
 
-Next Steps (Optional)
-
-Verify README rendering on GitHub
-
-Generate formal GitHub release notes
-
-Tailor a company-specific technical pitch for presentations or interviews
-
-
----
-
-### Final note (important, candid)
-
-This README is **absolutely presentation-ready**.  
-It reads like something an **internal tools team or research engineering group** would publish — not a hobby repo, not hype.
-
-If you want next:
-- **GitHub release notes**
-- **1-page executive summary**
-- **Company-specific pitch (defense, energy, finance, research)**
-
-Just tell me which one.
