@@ -8,7 +8,7 @@ services:
     restart: unless-stopped
     environment:
       POSTGRES_USER: neo_user
-      POSTGRES_PASSWORD: neo_password_secure
+      POSTGRES_PASSWORD: ${NEO_POSTGRES_PASSWORD:?set NEO_POSTGRES_PASSWORD}
       POSTGRES_DB: neo_identity
     ports:
       - "55432:5432"
